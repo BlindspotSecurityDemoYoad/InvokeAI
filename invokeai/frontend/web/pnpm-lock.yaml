@@ -69,8 +69,8 @@ dependencies:
     specifier: ^9.3.6
     version: 9.3.6
   lodash-es:
-    specifier: ^4.17.21
-    version: 4.17.21
+    specifier: ^4.17.23
+    version: 4.17.23
   nanostores:
     specifier: ^0.10.0
     version: 0.10.0
@@ -3724,7 +3724,7 @@ packages:
       '@nanostores/react': 0.7.2(nanostores@0.9.5)(react@18.2.0)
       chakra-react-select: 4.7.6(@chakra-ui/form-control@2.2.0)(@chakra-ui/icon@3.2.0)(@chakra-ui/layout@2.3.1)(@chakra-ui/media-query@3.3.0)(@chakra-ui/menu@2.2.1)(@chakra-ui/spinner@2.1.0)(@chakra-ui/system@2.6.2)(@emotion/react@11.11.4)(@types/react@18.2.73)(react-dom@18.2.0)(react@18.2.0)
       framer-motion: 10.18.0(react-dom@18.2.0)(react@18.2.0)
-      lodash-es: 4.17.21
+      lodash-es: 4.17.23
       nanostores: 0.9.5
       overlayscrollbars: 2.6.1
       overlayscrollbars-react: 0.5.5(overlayscrollbars@2.6.1)(react@18.2.0)
@@ -10251,8 +10251,8 @@ packages:
       p-locate: 5.0.0
     dev: true
 
-  /lodash-es@4.17.21:
-    resolution: {integrity: sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==}
+  /lodash-es@4.17.23:
+    resolution: {integrity: sha512-kVI48u3PZr38HdYz98UmfPnXl2DXrpdctLrFLCd3kOx1xUkOmpFPx7gCWWM5MPkL/fD8zb+Ph0QzjGFs4+hHWg==}
     dev: false
 
   /lodash.curry@4.1.1:
